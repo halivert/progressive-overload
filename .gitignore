@@ -1,0 +1,8 @@
+# API
+.env
+bootstrap/
+storage/
+vendor/
+
+# Frontend
+node_modules/
