@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://halivert.dev/progressive-overload/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "https://halivert.dev/progressive-overload/static/js/main.9fa1c34e.chunk.js",
+    "main.js.map": "https://halivert.dev/progressive-overload/static/js/main.9fa1c34e.chunk.js.map",
+    "runtime-main.js": "https://halivert.dev/progressive-overload/static/js/runtime-main.8963c29d.js",
+    "runtime-main.js.map": "https://halivert.dev/progressive-overload/static/js/runtime-main.8963c29d.js.map",
+    "static/js/2.fa9ea962.chunk.js": "https://halivert.dev/progressive-overload/static/js/2.fa9ea962.chunk.js",
+    "static/js/2.fa9ea962.chunk.js.map": "https://halivert.dev/progressive-overload/static/js/2.fa9ea962.chunk.js.map",
+    "static/js/3.2bb8242a.chunk.js": "https://halivert.dev/progressive-overload/static/js/3.2bb8242a.chunk.js",
+    "static/js/3.2bb8242a.chunk.js.map": "https://halivert.dev/progressive-overload/static/js/3.2bb8242a.chunk.js.map",
+    "index.html": "https://halivert.dev/progressive-overload/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "https://halivert.dev/progressive-overload/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fa9ea962.chunk.js.LICENSE.txt": "https://halivert.dev/progressive-overload/static/js/2.fa9ea962.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "https://halivert.dev/progressive-overload/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8963c29d.js",
+    "static/js/2.fa9ea962.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9fa1c34e.chunk.js"
+  ]
+}
